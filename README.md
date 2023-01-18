@@ -1,13 +1,5 @@
-# Sample Hardhat Project
+## Verify your Smart Contracts on Etherscan
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+Lets now learn how we can leverage hardhat for verifying smart contracts with only some lines of code.
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+My Contract - 0xC94Eb751475F3e05b0df65dDc74b9C109eED28f2
